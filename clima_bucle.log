@@ -1,0 +1,19 @@
+nohup: no se tendrá en cuenta la entrada
+[2026-08-28 16:34:21] Temp Real: 30.9°C | Prediccion XGBoost (t+1h): 29.42°C
+[main fbc635a] Lectura automatica local
+ 1 file changed, 1 insertion(+)
+To https://github.com/geogamer12/clima_ia_v2.git
+   6677a40..fbc635a  main -> main
+Lectura enviada a las 16:34:22. Esperando 15 minutos...
+[2026-08-28 16:49:24] Temp Real: 30.7°C | Prediccion XGBoost (t+1h): 28.97°C
+[main e2dd953] Lectura automatica local
+ 1 file changed, 2 insertions(+), 6 deletions(-)
+To https://github.com/geogamer12/clima_ia_v2.git
+   fbc635a..e2dd953  main -> main
+Lectura enviada a las 16:49:26. Esperando 15 minutos...
+[2026-08-28 17:04:29] Temp Real: 30.4°C | Prediccion XGBoost (t+1h): 28.79°C
+[main 05f3ce8] Lectura automatica local
+ 1 file changed, 1 insertion(+)
+To https://github.com/geogamer12/clima_ia_v2.git
+   e2dd953..05f3ce8  main -> main
+Lectura enviada a las 17:04:31. Esperando 15 minutos...
